@@ -25,10 +25,10 @@ $ source scripts/activate
 ```
 
 ```sh
-$ git clone https://github.com/$lozchkavarene/lab6timp projects/lab7timp
-$ cd projects/lab7timp
+$ git clone https://github.com/$lozchkavarene/lab6timp projects/lab7
+$ cd projects/lab7
 $ git remote remove origin
-$ git remote add origin https://github.com/$lozchkavarene/lab7timp
+$ git remote add origin https://github.com/$lozchkavarene/lab7
 ```
 
 ```sh
